@@ -1,12 +1,12 @@
-# Sou Matheus Zeitune, também conhecido como matzet99.
+# Hi, I'm Matheus Zeitune.
 
 ## Hard skills:
 * Node.js
 * React
-* React native
+* React Native
 * C#
-* .net core
-* asp.net core
+* .Net Core
+* Asp.Net Core
 
-# Minhas redes sociais
+# Social Media
 [linkedin](https://www.linkedin.com/in/matheus-zeitune)
