@@ -2,8 +2,6 @@
 
 ## Hard skills:
 * Node.js
-* React
-* React Native
 * C#
 * .Net Core
 * Asp.Net Core
