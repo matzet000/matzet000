@@ -35,7 +35,7 @@ Analysis and Development Systems Technology, Unicarioca
   <h3>Tools<h3/>
 <div/>
 
-<div align="center"> 
+<div align="left"> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matzet000&layout=compact&theme=dark" /> <br/>
   <img src="https://github-readme-stats.vercel.app/api?username=matzet000&show_icons=true&theme=dark&count_private=true&hide=contribs,issues&include_all_commits=true" /> <br/>
 </div>
