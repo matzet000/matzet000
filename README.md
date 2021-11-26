@@ -30,6 +30,6 @@ Developer with great knowledge in software engineering, systems architecture, DD
 [linkedin](https://www.linkedin.com/in/matheus-zeitune)
 
 <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matzet000&layout=compact&theme=dark" />
-  <img src="https://github-readme-stats.vercel.app/api?username=matzet000&show_icons=true&theme=dark&count_private=true&hide=contribs,issues&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matzet000&layout=compact&theme=dark" /> <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=matzet000&show_icons=true&theme=dark&count_private=true&hide=contribs,issues&include_all_commits=true" /> <br/>
 </p>
