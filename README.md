@@ -7,12 +7,6 @@ Developer with great knowledge in software engineering, systems architecture, DD
 * Analysis and Development Systems Technology, Unicarioca
 
 # Hard skills:
-* C#
-* C
-* Java
-* Dart
-* JavaScript
-* TypeScript
 * Node.js
 * React
 * Flutter
@@ -26,14 +20,16 @@ Developer with great knowledge in software engineering, systems architecture, DD
 * Docker
 
 <div align="center">
-  <h3>Languages<h3/> <br/>
-   <img align="center" alt="JavaScript" src="https://img.shields.io/badge/-Javascript-222222?style=for-the-badge&logoColor=ff0&logo=javascript" />
+  <h2>Languages<h2/> <br/>
+    <img align="center" alt="JavaScript" src="https://img.shields.io/badge/-Javascript-222222?style=for-the-badge&logoColor=ff0&logo=javascript" />
     <img align="center" alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-222222?style=for-the-badge&logoColor=blue&logo=typescript" />
     <img align="center" alt="C#" src="https://img.shields.io/badge/-Csharp-222222?style=for-the-badge&logoColor=blue&logo=csharp" />
+    <img align="center" alt="C" src="https://img.shields.io/badge/-C-222222?style=for-the-badge&logoColor=blue&logo=C" />
+    <img align="center" alt="Java" src="https://img.shields.io/badge/-Java-222222?style=for-the-badge&logoColor=blue&logo=java" />
 <div/>
    
 <div align="center">
-  <h3>Tools<h3/>
+  <h2>Tools<h2/>
 <div/>
 
 # Social Media
