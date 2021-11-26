@@ -7,16 +7,29 @@ Developer with great knowledge in software engineering, systems architecture, DD
 * Analysis and Development Systems Technology, Unicarioca
 
 # Hard skills:
-* Node.js
 * C#
+* C
+* Java
+* Dart
+* JavaScript
+* TypeScript
+* Node.js
+* React
+* Flutter
 * .Net 6
 * .Net Core
 * Asp.Net Core
 * Aps.Net 6
+* SQL
+* SQL Server
+* PostgreSQL
+* Docker
+* 
 
 # Social Media
 [linkedin](https://www.linkedin.com/in/matheus-zeitune)
 
 <p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matzet000&layout=compact&theme=algolia" />
   <img src="https://github-readme-stats.vercel.app/api?username=matzet000&show_icons=true&theme=dark&count_private=true&hide=contribs,issues&include_all_commits=true" />
 </p>
