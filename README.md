@@ -24,7 +24,17 @@ Developer with great knowledge in software engineering, systems architecture, DD
 * SQL Server
 * PostgreSQL
 * Docker
-* 
+
+<div align="center">
+  <h3>Languages<h3/><br/>
+    <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
+            <img align="center" alt="JavaScript" src="https://img.shields.io/badge/-Javascript-222222?style=for-the-badge&logoColor=ff0&logo=javascript" />
+        </a>
+<div/>
+   
+<div align="center">
+  <h3>Tools<h3/>
+<div/>
 
 # Social Media
 [linkedin](https://www.linkedin.com/in/matheus-zeitune)
