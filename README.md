@@ -19,8 +19,11 @@ Developer with great knowledge in software engineering, systems architecture, DD
 * PostgreSQL
 * Docker
 
+# Social Media
+[linkedin](https://www.linkedin.com/in/matheus-zeitune)
+
 <div align="center">
-  <h2>Languages<h2/> <br/>
+  <h1>Languages<h1/> <br/>
     <img align="center" alt="JavaScript" src="https://img.shields.io/badge/-Javascript-222222?style=for-the-badge&logoColor=ff0&logo=javascript" />
     <img align="center" alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-222222?style=for-the-badge&logoColor=blue&logo=typescript" />
     <img align="center" alt="C#" src="https://img.shields.io/badge/-Csharp-222222?style=for-the-badge&logoColor=blue&logo=csharp" />
@@ -29,13 +32,10 @@ Developer with great knowledge in software engineering, systems architecture, DD
 <div/>
    
 <div align="center">
-  <h2>Tools<h2/>
+  <h1>Tools<h1/>
 <div/>
 
-# Social Media
-[linkedin](https://www.linkedin.com/in/matheus-zeitune)
-
-<p align="center"> 
+<div align="center"> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matzet000&layout=compact&theme=dark" /> <br/>
   <img src="https://github-readme-stats.vercel.app/api?username=matzet000&show_icons=true&theme=dark&count_private=true&hide=contribs,issues&include_all_commits=true" /> <br/>
-</p>
+</div>
