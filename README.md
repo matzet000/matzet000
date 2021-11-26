@@ -9,8 +9,14 @@ Developer with great knowledge in software engineering, systems architecture, DD
 # Hard skills:
 * Node.js
 * C#
+* .Net 6
 * .Net Core
 * Asp.Net Core
+* Aps.Net 6
 
 # Social Media
 [linkedin](https://www.linkedin.com/in/matheus-zeitune)
+
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=matzet000&show_icons=true&theme=dark&count_private=true&hide=contribs,issues&include_all_commits=true" />
+</p>
