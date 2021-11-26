@@ -22,7 +22,7 @@ Developer with great knowledge in software engineering, systems architecture, DD
 # Social Media
 [linkedin](https://www.linkedin.com/in/matheus-zeitune)
 
-<div align="center">
+<div align="left">
   <h1>Languages<h1/> <br/>
     <img align="center" alt="JavaScript" src="https://img.shields.io/badge/-Javascript-222222?style=for-the-badge&logoColor=ff0&logo=javascript" />
     <img align="center" alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-222222?style=for-the-badge&logoColor=blue&logo=typescript" />
@@ -31,7 +31,7 @@ Developer with great knowledge in software engineering, systems architecture, DD
     <img align="center" alt="Java" src="https://img.shields.io/badge/-Java-222222?style=for-the-badge&logoColor=blue&logo=java" />
 <div/>
    
-<div align="center">
+<div align="left">
   <h1>Tools<h1/>
 <div/>
 
