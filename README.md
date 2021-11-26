@@ -1,16 +1,16 @@
 <div align="left">
-  <h1>Hi, I'm Matheus Zeitune<h1/>
+  <h3>Hi, I'm Matheus Zeitune<h3/>
 <div/>
 
 <div align="left">
-  <h1>About me<h1/>
+  <h3>About me<h3/>
     <p>
       Developer with great knowledge in software engineering, systems architecture, DDD, systems integration, patterns designing, SOLID, unit tests and object oriented programing. Furthermore, he has knowledge in C#, Asp.net Core, NodeJs and React.
     <p/>
 <div/>
 
 <div align="left">
-  <h1>Education<h1/>
+  <h3>Education<h3/>
     <p>
      Analysis and Development Systems Technology, Unicarioca
     <p/>
@@ -34,7 +34,7 @@
 [linkedin](https://www.linkedin.com/in/matheus-zeitune)
 
 <div align="left">
-  <h1>Languages<h1/>
+  <h3>Languages<h3/>
     <img align="center" alt="JavaScript" src="https://img.shields.io/badge/-Javascript-222222?style=for-the-badge&logoColor=ff0&logo=javascript" />
     <img align="center" alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-222222?style=for-the-badge&logoColor=blue&logo=typescript" />
     <img align="center" alt="C#" src="https://img.shields.io/badge/-Csharp-222222?style=for-the-badge&logoColor=blue&logo=csharp" />
@@ -43,7 +43,7 @@
 <div/>
    
 <div align="left">
-  <h1>Tools<h1/>
+  <h3>Tools<h3/>
 <div/>
 
 <div align="center"> 
