@@ -6,7 +6,7 @@ Developer with great knowledge in software engineering, systems architecture, DD
 # Education
 * 2021 Analysis and Development Systems Technology, Unicarioca
 
-## Hard skills:
+# Hard skills:
 * Node.js
 * C#
 * .Net Core
