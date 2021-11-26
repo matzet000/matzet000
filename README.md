@@ -6,7 +6,16 @@ Developer with great knowledge in software engineering, systems architecture, DD
 # Education
 Analysis and Development Systems Technology, Unicarioca
 
-# Hard skills:
+# Hard skills
+## Languages
+* JavaScript
+* TypeScript
+* C#
+* C
+* Java
+* Dart
+
+## Frameworks
 * Node.js
 * React
 * Flutter
@@ -14,25 +23,32 @@ Analysis and Development Systems Technology, Unicarioca
 * .Net Core
 * Asp.Net Core
 * Aps.Net 6
+* Entity Framework
+* entity framework Core
+
+## Databases
 * SQL
 * SQL Server
 * PostgreSQL
+
+## Tools
+* Git
 * Docker
 
 # Social Media
 [linkedin](https://www.linkedin.com/in/matheus-zeitune)
 
+
 <div align="left">
-  <h3>Languages<h3/>
-    <img align="center" alt="JavaScript" src="https://img.shields.io/badge/-Javascript-222222?style=for-the-badge&logoColor=ff0&logo=javascript" />
-    <img align="center" alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-222222?style=for-the-badge&logoColor=blue&logo=typescript" />
-    <img align="center" alt="C#" src="https://img.shields.io/badge/-Csharp-222222?style=for-the-badge&logoColor=blue&logo=csharp" />
-    <img align="center" alt="C" src="https://img.shields.io/badge/-C-222222?style=for-the-badge&logoColor=blue&logo=C" />
-    <img align="center" alt="Java" src="https://img.shields.io/badge/-Java-222222?style=for-the-badge&logoColor=blue&logo=java" />
+  <h3>Frameworks<h3/>
+    <img align="center" alt="Node.js" src="https://img.shields.io/badge/-Node_JS-222222?style=for-the-badge&logoColor=ff0&logo=node.js" />
+    <img align="center" alt="Node.js" src="https://img.shields.io/badge/-React-222222?style=for-the-badge&logoColor=ff0&logo=react" />
 <div/>
-   
+    
 <div align="left">
   <h3>Tools<h3/>
+    <img align="center" alt="Node.js" src="https://img.shields.io/badge/-Node_JS-222222?style=for-the-badge&logoColor=ff0&logo=node.js" />
+    <img align="center" alt="Node.js" src="https://img.shields.io/badge/-React-222222?style=for-the-badge&logoColor=ff0&logo=react" />
 <div/>
 
 <div align="left"> 
