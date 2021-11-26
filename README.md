@@ -26,12 +26,15 @@ Developer with great knowledge in software engineering, systems architecture, DD
 * Docker
 
 <div align="center">
-  <h3>Languages<h3/><br/>
+  <h3>Languages<h3/> <br/>
     <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
        <img align="center" alt="JavaScript" src="https://img.shields.io/badge/-Javascript-222222?style=for-the-badge&logoColor=ff0&logo=javascript" />
     </a>
     <a href="https://www.typescriptlang.org/">
        <img align="center" alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-222222?style=for-the-badge&logoColor=blue&logo=typescript" />
+    </a>
+    <a href="https://docs.microsoft.com/en-us/dotnet/csharp/">
+       <img align="center" alt="C#" src="https://img.shields.io/badge/-Csharp-222222?style=for-the-badge&logoColor=blue&logo=csharp" />
     </a>
 <div/>
    
