@@ -1,21 +1,10 @@
-<div align="left">
-  <h3>Hi, I'm Matheus Zeitune<h3/>
-<div/>
+# Hi, I'm Matheus Zeitune
 
-<div align="left">
-  <h3>About me<h3/>
-    <p>
-      Developer with great knowledge in software engineering, systems architecture, DDD, systems integration, patterns designing, SOLID, unit tests and object oriented programing. Furthermore, he has knowledge in C#, Asp.net Core, NodeJs and React.
-    <p/>
-<div/>
+# About me
+Developer with great knowledge in software engineering, systems architecture, DDD, systems integration, patterns designing, SOLID, unit tests and object oriented programing. Furthermore, he has knowledge in C#, Asp.net Core, NodeJs and React.
 
-<div align="left">
-  <h3>Education<h3/>
-    <p>
-     Analysis and Development Systems Technology, Unicarioca
-    <p/>
-<div/>
-
+# Education
+Analysis and Development Systems Technology, Unicarioca
 
 # Hard skills:
 * Node.js
